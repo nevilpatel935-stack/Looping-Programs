@@ -1,3 +1,4 @@
+// do while
 let i: number = 1;
 
 do {

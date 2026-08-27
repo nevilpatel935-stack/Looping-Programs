@@ -1,3 +1,4 @@
+// numbers in line
 let i: number = 1;
 let str: string = "";
 
